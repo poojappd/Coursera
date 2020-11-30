@@ -29,4 +29,4 @@ public static void main(String args[]){
 Part1 t=new Part1();
 t.testSimpleGene();
 }   
-}
+ 
